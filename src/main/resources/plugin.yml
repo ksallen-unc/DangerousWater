@@ -1,0 +1,6 @@
+name: DangerousWater
+version: ${project.version}
+main: hypebeastkate.dangerouswater.DangerousWater
+api-version: 1.15
+authors: [hypebeastkate]
+description: When you touch water you are poisoned and set on fire. As useless as it sounds.
